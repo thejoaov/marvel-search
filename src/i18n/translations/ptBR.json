@@ -1,0 +1,54 @@
+{
+  "home": {
+    "search": "Nome do Personagem",
+    "input-search": "Pesquisar",
+    "column-name": "Nome",
+    "input-search-placeholders": {
+      "0": "Winter Soldier",
+      "1": "Iron Man",
+      "2": "Captain America",
+      "3": "Thor",
+      "4": "Hulk",
+      "5": "Black Widow",
+      "6": "Hawkeye",
+      "7": "Spider-Man",
+      "8": "Black Panther",
+      "9": "Doctor Strange",
+      "10": "Captain Marvel",
+      "11": "Thanos",
+      "12": "Ant-Man",
+      "13": "Wasp",
+      "14": "Vision",
+      "15": "Scarlet Witch",
+      "16": "Falcon",
+      "17": "She-Hulk",
+      "18": "War Machine",
+      "19": "Gamora",
+      "20": "Nebula",
+      "21": "Drax",
+      "22": "Rocket",
+      "23": "Groot",
+      "24": "Mantis",
+      "25": "Yondu",
+      "26": "Star-Lord",
+      "27": "Ego",
+      "28": "Valkyrie",
+      "29": "Hela",
+      "30": "Heimdall"
+    }
+  },
+  "details": {
+    "events-title": "Eventos",
+    "series-title": "Séries",
+    "urls-title": "Links",
+    "no-description": "Nenhuma descrição disponível."
+  },
+  "settings": {
+    "title": "Configurações",
+    "change-language": "Mudar Idioma",
+    "language": {
+      "pt": "🇧🇷 Português",
+      "en": "🇺🇸 Inglês"
+    }
+  }
+}
